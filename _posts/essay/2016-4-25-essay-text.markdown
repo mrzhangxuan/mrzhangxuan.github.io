@@ -1,7 +1,7 @@
 ---
 layout: post
 title: text
-category: life
+category: essay
 tags: text
 description: text
 ---
