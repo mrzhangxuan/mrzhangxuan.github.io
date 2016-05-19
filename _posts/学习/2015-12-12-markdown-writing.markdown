@@ -71,8 +71,8 @@ Mac： [Mou][2]
 
 ps：Markdown现在还有很多小巧易用且独具趣味的小插件。
 
-[1]:http://25.io/mou/
-[2]:http://www.markdownpad.com/
+[2]:http://25.io/mou/
+[1]:http://www.markdownpad.com/
 
 
     
