@@ -1,8 +1,10 @@
+---
 layout: post
 title: Markdown
 category: 学习
 tags: markdown
-keywords: markdown
+keywords: 优点,语法,软件
+---
 ## 一.为什么使用markdown 
 
 最早接触markdown，是因为推特上的一个段子   
@@ -45,17 +47,14 @@ keywords: markdown
 ###7.图片与链接
 插入图片格式  ![图片的替代文字](图片链接地址）
 
-链接格式
-  ![插入链接](http://7xtcpz.com1.z0.glb.clouddn.com/%E6%8F%92%E5%85%A5%E9%93%BE%E6%8E%A5.JPG）
-
-
-
+插入链接
+![插入链接](http://7xtcpz.com1.z0.glb.clouddn.com/%E6%8F%92%E5%85%A5%E9%93%BE%E6%8E%A5.JPG)
 
 ##三.编辑软件
 
-自从接触markdown，尝试过很多种编辑器（包括在线的），最终选择了两款作为自己用的工具。 
+自从接触Markdown，尝试过很多种编辑器（包括在线的），最终选择了两款作为自己用的工具。 
 
-windows：[markdownpad][1]  
+Windows：[markdownpad][1]  
 
 Mac： [Mou][2]  
 
