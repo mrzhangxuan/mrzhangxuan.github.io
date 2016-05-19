@@ -1,13 +1,13 @@
 ---
 layout: post
-title: markdown
+title: Markdown
 category: 学习
 tags: markdown writing
-keywords: 优点，语法，软件
+keywords: 语法，软件
 ---
 
 
-## 一.为什么使用markdown 
+## 一、为什么使用markdown 
 
 最早接触markdown，是因为推特上的一个段子   
 > 越来越觉得markdown是程序员自嗨搞出来的东西，你看哦，这个很简单哦，只需要敲几个键盘，格式就出来了，很酷有没有，代码还可以高亮哦。要插入图片怎么办，很方便，只需要先上传到图床再贴个链接，很棒对不对？感觉样子还是有点单调唉，这个就更方便了，你只需要写一个自定义的CSS...
@@ -59,7 +59,7 @@ keywords: 优点，语法，软件
 插入链接
 ![插入链接](http://7xtcpz.com1.z0.glb.clouddn.com/%E6%8F%92%E5%85%A5%E9%93%BE%E6%8E%A5.JPG)
 
-## 三.编辑软件
+## 三、编辑软件
 
 自从接触Markdown，尝试过很多种编辑器（包括在线的），最终选择了两款作为自己用的工具。 
 
