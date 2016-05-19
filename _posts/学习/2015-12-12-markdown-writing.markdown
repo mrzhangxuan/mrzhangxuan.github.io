@@ -59,7 +59,7 @@ keywords: 语法，软件
 插入图片格式  ![图片的替代文字](图片链接地址）
 
 插入链接
-![插入链接](http://7xtcpz.com1.z0.glb.clouddn.com/%E6%8F%92%E5%85%A5%E9%93%BE%E6%8E%A5.JPG)
+![插入链接](http://7xtcpz.com1.z0.glb.clouddn.com/%E9%93%BE%E6%8E%A5%E7%A4%BA%E4%BE%8B.png)
 
 ## 三、编辑软件
 
