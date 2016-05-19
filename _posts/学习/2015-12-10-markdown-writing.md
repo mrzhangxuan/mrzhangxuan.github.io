@@ -1,3 +1,8 @@
+layout: post
+title: Markdown
+category: 学习
+tags: markdown
+keywords: markdown
 ## 一.为什么使用markdown 
 
 最早接触markdown，是因为推特上的一个段子   
