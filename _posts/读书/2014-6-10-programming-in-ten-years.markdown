@@ -6,7 +6,9 @@ tags:  Programming
 keywords: Programming 
 ---
 ***
+
 最早是在大四读到**Peter Norvig** 这篇文章，当初只是觉得，嗯，不错，说的似乎有些道理，现在毕业一年，回头看这篇文章，感触颇深，转载在这里，给自己一个提醒，博观而约取，厚积而薄发。
+
 ***
 
 #Teach Yourself Programming in Ten Years
