@@ -19,7 +19,7 @@ Walk into any bookstore, and you'll see how to Teach Yourself Java in 24 Hours a
 
 The conclusion is that either people are in a big rush to learn about programming, or that programming is somehow fabulously easier to learn than anything else. Felleisen et al. give a nod to this trend in their book *How to Design Programs*, when they say "Bad programming is easy. Idiots can learn it in 21 days, even if they are dummies." The Abtruse Goose comic also had their take.
 
-Let's analyze what a title like   ** Teach Yourself C++ in 24 Hours**  could mean:
+Let's analyze what a title like  *Teach Yourself C++ in 24 Hours* could mean:
 
 **Teach Yourself:** In 24 hours you won't have time to write several significant programs, and learn from your successes and failures with them. You won't have time to work with an experienced programmer and understand what it is like to live in a C++ environment. In short, you won't have time to learn much. So the book can only be talking about a superficial familiarity, not a deep understanding. As Alexander Pope said, a little learning is a dangerous thing.
 
