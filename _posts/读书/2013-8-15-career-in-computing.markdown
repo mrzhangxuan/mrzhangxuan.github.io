@@ -12,7 +12,7 @@ keywords: Programming
 ***
 
 # A Career in Computing
-### by Bruce Eckel
+###  by Bruce Eckel
 
 
 The question that people ask is usually the wrong one: "should I learn C++ or Java?" In this essay, I shall try to lay out my view of the true issues involved in choosing a career in computing.
