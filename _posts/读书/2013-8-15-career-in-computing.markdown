@@ -7,12 +7,12 @@ keywords: Programming
 ---
 ***
 
-转载一位大牛的文章，很喜欢的一篇文章 ，作者 **Bruce Eckel**  ，著有《Thinking in C++》和《Thinking in Java》，对于一个刚刚接触编程的新手，看到这位大牛的忠告，可以说是一种幸运。
+转载一位大牛的文章，读完很喜欢 ，作者 **Bruce Eckel**  ，著有《Thinking in C++》和《Thinking in Java》，对于一个刚刚接触编程的新手，看到这位大牛的忠告，可以说是一种幸运。
 
 ***
 
 # A Career in Computing
-#### by Bruce Eckel
+### by Bruce Eckel
 
 
 The question that people ask is usually the wrong one: "should I learn C++ or Java?" In this essay, I shall try to lay out my view of the true issues involved in choosing a career in computing.
